@@ -2,6 +2,7 @@
   "name": "maykan_invest",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Kolokol2002.github.io/maykan_invest/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.17.0",
