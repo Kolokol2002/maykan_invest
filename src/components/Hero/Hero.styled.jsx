@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import { Link } from "react-scroll";
-import { desktop, min, tablet } from "../../styles/media";
+// import { desktop, min, tablet } from "../../styles/media";
 
 export const HeroContainer = styled.div`
   height: 100%;

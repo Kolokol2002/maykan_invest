@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+// import React, { useRef, useState } from "react";
 import Header from "../../components/Header/Header";
 import { HomePage } from "./Home.styled";
 import Container from "../../common/Container/Container";

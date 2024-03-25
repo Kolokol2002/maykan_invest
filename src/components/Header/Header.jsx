@@ -3,7 +3,6 @@ import React, { useState } from "react";
 import {
   HeaderComponent,
   Logo,
-  LogoImage,
   LogoText,
   NavButtonMobile,
 } from "./Header.styled";
