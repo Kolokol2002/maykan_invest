@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+// import { useEffect, useRef } from "react";
 import { BackgroungHeroContainer, VideoHero } from "./BackgroungHero.styled";
 
 const BackgroungHero = ({ children }) => {
