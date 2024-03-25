@@ -1,0 +1,62 @@
+[
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Іван Петренко",
+    "position": "Програміст",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium tortor. Donec ultrices lectus sed leo ultricies, eu convallis dui ullamcorper."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Марія Шевченко",
+    "position": "Дизайнер",
+    "about": "Nullam venenatis velit vel velit hendrerit, ac tincidunt leo ultricies. Phasellus sed mi ut massa ultricies rutrum. Mauris euismod orci eget purus placerat, vel tincidunt turpis ullamcorper."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Тарас Бойко",
+    "position": "Менеджер",
+    "about": "Proin eget leo ac purus tincidunt hendrerit. Sed ac leo eget urna ultricies blandit. Praesent ac lacus eu eros luctus lobortis."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Олена Зайцева",
+    "position": "Викладач",
+    "about": "Suspendisse potenti. Donec euismod massa eget tortor posuere, eu hendrerit metus ultrices. Donec sed neque accumsan, mattis purus eget, ultrices leo."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Сергій Ковальчук",
+    "position": "Інженер",
+    "about": "Nulla facilisi. Cras euismod lacus a leo blandit, eget hendrerit libero ultrices. Sed eget nibh eget lacus hendrerit venenatis."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Юлія Петрова",
+    "position": "Лікар",
+    "about": "Mauris euismod risus et leo ultricies, eget ultrices erat ultricies. Donec euismod tristique erat, sit amet fringilla massa pretium vitae."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Дмитро Сидоренко",
+    "position": "Юрист",
+    "about": "Fusce aliquam lacus ac nisl luctus, in ultrices tortor hendrerit. Praesent ultrices purus eget nisl egestas, sit amet aliquam ante ultricies."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Анна Іванова",
+    "position": "Бухгалтер",
+    "about": "Nam eu sapien ac arcu ultricies hendrerit. Cras non risus sit amet libero hendrerit accumsan. Duis eu lacus eget ligula ultricies tincidunt."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Віктор Павленко",
+    "position": "Продавець",
+    "about": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque euismod quam eget risus tincidunt, eget hendrerit massa ultrices."
+  },
+  {
+    "photo": "https://coenterprises.com.au/wp-content/uploads/2018/02/male-placeholder-image.jpeg",
+    "name": "Олена Кулик",
+    "position": "Секретар",
+    "about": "Nunc euismod, ipsum eget ultricies ultricies, leo lectus tincidunt mi, et lacinia neque lectus id nibh. Donec in massa sit amet leo hendrerit hendrerit."
+  }
+]
