@@ -9,7 +9,7 @@ const BackgroungHero = ({ children }) => {
 
   return (
     <BackgroungHeroContainer>
-      <VideoHero ref={videoRef} preload="auto" autoPlay loop muted>
+      <VideoHero ref={videoRef} preload="auto" playsinline autoPlay loop muted>
         <source src="/maykan_invest/for_hero.mp4" type="video/mp4"></source>
       </VideoHero>
       {children}
