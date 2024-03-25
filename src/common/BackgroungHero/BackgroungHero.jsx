@@ -10,19 +10,14 @@ const BackgroungHero = ({ children }) => {
   return (
     <BackgroungHeroContainer>
       <VideoHero
-        playsinline
-        autoPlay
-        loop
+        autoPlay={true}
+        loop={true}
+        controls={false}
+        playsInline
         muted
-        data-wf-ignore
-        data-object-fit="cover"
-      >
-        <source
-          src="/maykan_invest/for_hero.mp4"
-          type="video/mp4"
-          data-wf-ignore
-        ></source>
-      </VideoHero>
+        src="/maykan_invest/for_hero.mp4"
+        type="video/mp4"
+      />
       {children}
     </BackgroungHeroContainer>
   );
