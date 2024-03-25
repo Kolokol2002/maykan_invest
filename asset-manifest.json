@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maykan_invest/static/css/main.5e860652.css",
-    "main.js": "/maykan_invest/static/js/main.0375063a.js",
+    "main.js": "/maykan_invest/static/js/main.5f58a2f4.js",
     "static/media/TildaSans-VF.ttf": "/maykan_invest/static/media/TildaSans-VF.22b8b72db2ebdc82a72b.ttf",
     "index.html": "/maykan_invest/index.html",
     "main.5e860652.css.map": "/maykan_invest/static/css/main.5e860652.css.map",
-    "main.0375063a.js.map": "/maykan_invest/static/js/main.0375063a.js.map"
+    "main.5f58a2f4.js.map": "/maykan_invest/static/js/main.5f58a2f4.js.map"
   },
   "entrypoints": [
     "static/css/main.5e860652.css",
-    "static/js/main.0375063a.js"
+    "static/js/main.5f58a2f4.js"
   ]
 }
