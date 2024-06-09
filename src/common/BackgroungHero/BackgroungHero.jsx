@@ -1,15 +1,16 @@
-// import { useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 import { BackgroungHeroContainer, VideoHero } from "./BackgroungHero.styled";
 
 const BackgroungHero = ({ children }) => {
-  // const videoRef = useRef();
-  // useEffect(() => {
-  //   videoRef.current.playbackRate = 1;
-  // }, []);
+  const videoRef = useRef();
+  useEffect(() => {
+    videoRef.current.playbackRate = 1;
+  }, []);
 
   return (
     <BackgroungHeroContainer>
       <VideoHero
+        ref={videoRef}
         autoPlay={true}
         loop={true}
         controls={false}

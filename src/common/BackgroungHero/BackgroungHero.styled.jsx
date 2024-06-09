@@ -17,4 +17,5 @@ export const VideoHero = styled.video`
   height: 100vh;
   width: 100%;
   z-index: -1;
+  /* filter: hue-rotate(100%); */
 `;

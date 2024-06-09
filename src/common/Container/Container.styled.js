@@ -13,7 +13,6 @@ export const ContainerMain = styled.div`
   }
   @media (min-width: 1280px) {
     max-width: 1280px;
-    padding: ${(prop) =>
-      prop.home !== undefined ? "24px 24px 104px" : "104px 24px"};
+    padding: ${(prop) => (prop.home !== undefined ? "0 24px 0" : "104px 24px")};
   }
 `;
